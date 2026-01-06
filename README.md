@@ -1,9 +1,8 @@
-# NLP-Based Plagiarism Checker
-Lab Project Submission
+## Lab Project Submission
 
-Project Title: NLP-Based Plagiarism Checker
+## Project Title: NLP-Based Plagiarism Checker
 
-Team Members:
+## Team Members:
 1. AMAL NASIR(22SP-014-CS)
 2. MUHAMMAD NAQVI(22SP-028-CS)
 3. MUHAMMAD IRTIZA(22SP-047-CS)
@@ -36,5 +35,39 @@ The system detects:
 - Math Library
 
 ---
+##  How to Use
 
-## 📂 Project Structure
+Run the program.
+
+Enter the first text when prompted.
+
+Enter the second text.
+
+View plagiarism percentage.
+
+Type yes to generate a detailed report.
+
+ ## Output Details
+
+Similarity < 30% → No plagiarism
+
+30% – 50% → Low similarity
+
+50% – 70% → Moderate similarity (possible paraphrasing)
+
+> 70% → High similarity (possible plagiarism)
+
+
+# Plagiarism Checker Report
+
+This document shows sample execution results of the plagiarism checker.
+
+## Similarity Result
+- Overall Similarity: 58.21%
+- Verdict: Moderate similarity
+
+## Observations
+- Several common keywords found after preprocessing
+- Sentence-level similarity detected
+- TF-IDF successfully captures contextual overlap
+
