@@ -1,4 +1,14 @@
 # NLP-Based Plagiarism Checker
+Lab Project Submission
+
+Project Title: NLP-Based Plagiarism Checker
+
+Team Members:
+1. AMAL NASIR(22SP-014-CS)
+2. MUHAMMAD NAQVI(22SP-028-CS)
+3. MUHAMMAD IRTIZA(22SP-047-CS)
+4. LAIBA ATA(22SP-048-CS)
+5. AREEJ TAHIR(22SP-050-CS)
 
 ##  Project Overview
 This project is an **NLP-based Plagiarism Detection System** developed using Python.  
